@@ -1,3 +1,3 @@
-"hello world"
+print = "hello world"
 
-hello_world
+p = "hello_world"
